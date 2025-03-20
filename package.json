@@ -31,13 +31,14 @@
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
+		"@types/node": "^22.13.10",
 		"@typescript-eslint/parser": "^6.20.0",
 		"@typescript-eslint/rule-tester": "^7.6.0",
-		"mocha": "^10.2.0"
+		"mocha": "^10.2.0",
+		"typescript": "^5.8.2"
 	},
-	"bundleDependencies": [],
 	"dependencies": {
-		"eslint-barrel-file-utils": "^0.0.11",
+		"@devinmdavies/eslint-barrel-file-utils": "github:devindavies/eslint-barrel-file-utils",
 		"oxc-resolver": "^5.0.1"
 	}
 }
