@@ -1,6 +1,6 @@
 {
 	"name": "eslint-plugin-barrel-files",
-	"version": "3.0.3",
+	"version": "3.0.4",
 	"description": "eslint plugin to avoid common errors with barrel files",
 	"main": "index.js",
 	"directories": {
@@ -38,7 +38,7 @@
 		"typescript": "^5.8.2"
 	},
 	"dependencies": {
-		"@devinmdavies/eslint-barrel-file-utils": "github:devindavies/eslint-barrel-file-utils",
+		"@devinmdavies/eslint-barrel-file-utils": "^0.0.15",
 		"oxc-resolver": "^5.0.1"
 	}
 }
