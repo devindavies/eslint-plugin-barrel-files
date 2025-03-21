@@ -39,6 +39,7 @@
 	},
 	"dependencies": {
 		"@devinmdavies/eslint-barrel-file-utils": "^0.0.16",
+		"globby": "^14.1.0",
 		"oxc-resolver": "^5.0.1"
 	}
 }
